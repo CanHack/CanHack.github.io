@@ -165,7 +165,7 @@ p.copyright {
     margin: 15px 0 0;
 }
 
-.copy-left {
+p.copyleft {
   display: inline-block;
   text-align: right;
   margin: 0px;
