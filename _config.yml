@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://canhack.github.io"
 twitter_username: youcanhackit
 github_username:  CanHack
-facebook_username:  IronSummitMedia
+linkedin_username:  Can-Hack-8235926/about
 
 # Build settings
 markdown: kramdown
