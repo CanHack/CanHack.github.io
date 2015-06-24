@@ -1,0 +1,21 @@
+---
+layout:     post
+title:      "42"
+subtitle:   "La respuesta a todas las preguntas"
+date:       2015-06-24 22:00:00
+author:     "gdeignacio"
+header-img: "img/banner-bg.jpg"
+---
+
+<p></p>
+
+
+<p/>
+<p/>
+
+
+
+<a href="https://commons.wikimedia.org/wiki/File:Answer_to_Life.png#/media/File:Answer_to_Life.png">
+    <img src="{{ site.baseurl }}/img/posts/42/Answer_to_Life.png" alt="The answer">
+</a>
+<span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
