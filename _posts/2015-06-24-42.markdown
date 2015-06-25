@@ -7,11 +7,11 @@ author:     "gdeignacio"
 header-img: "img/banner-bg.jpg"
 ---
 
-<p></p>
 
 
-<p/>
-<p/>
+
+<h2>Primer post</h2>
+<p>Can Hack ya tiene blog. Y ante la duda ...</p>
 
 
 
@@ -19,3 +19,6 @@ header-img: "img/banner-bg.jpg"
     <img src="{{ site.baseurl }}/img/posts/42/Answer_to_Life.png" alt="The answer">
 </a>
 <span class="caption text-muted">To go places and do things that have never been done before – that’s what living is all about.</span>
+
+
+<p>Este mensaje se autodestruirá.</p>
