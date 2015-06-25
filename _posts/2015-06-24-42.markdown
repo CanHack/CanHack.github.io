@@ -3,7 +3,7 @@ layout:     post
 title:      "42"
 subtitle:   "La respuesta a todas las preguntas"
 date:       2015-06-24 22:00:00
-author:     "gdeignacio"
+author:     "Can Hack"
 header-img: "img/banner-bg.jpg"
 ---
 
