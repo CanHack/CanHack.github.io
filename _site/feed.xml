@@ -5,8 +5,13 @@
     <description>Can Hack. Hackspace en Mallorca</description>
     <link>http://canhack.github.io/</link>
     <atom:link href="http://canhack.github.io/feed.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
     <pubDate>Sun, 28 Jun 2015 22:22:31 +0200</pubDate>
     <lastBuildDate>Sun, 28 Jun 2015 22:22:31 +0200</lastBuildDate>
+=======
+    <pubDate>Sun, 28 Jun 2015 22:19:34 +0200</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2015 22:19:34 +0200</lastBuildDate>
+>>>>>>> gdeignacio/blog-0.1
     <generator>Jekyll v2.5.3</generator>
     
       <item>

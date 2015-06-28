@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: page_custom
 description: "Hackspace en Mallorca"
 header-img: "img/intro-bg.jpg"
 ---
 
 {% for post in paginator.posts %}
 <div class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <a href="{{ post.url | prepend: site.baseurl }}#disqus_thread" >
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
