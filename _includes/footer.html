@@ -50,10 +50,26 @@
 </footer>
 
 <!-- jQuery -->
-<script src="{{ "/js/jquery.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/jquery/dist/jquery.min.js" | prepend: site.baseurl }}"></script>
 
 <!-- Bootstrap Core JavaScript -->
-<script src="{{ "/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/bootstrap/dist/js/bootstrap.min.js " | prepend: site.baseurl }}"></script>
 
 <!-- Custom Theme JavaScript -->
 <script src="{{ "/js/clean-blog.min.js " | prepend: site.baseurl }}"></script>
+<script src="{{ "/bower_components/ekko-lightbox/dist/ekko-lightbox.min.js" | prepend: site.baseurl }}"></script>
+
+<script>
+// Remove and execute all items in the array
+while (queue.length > 0) {
+    (queue.shift())();
+}
+
+// add utomatic lightbox effect to elements with data-toggle="lightbox"
+$(function(){
+  $(document).delegate('*[data-toggle="lightbox"]', 'click', function(event) {
+      event.preventDefault();
+      $(this).ekkoLightbox();
+  });
+});
+</script>
