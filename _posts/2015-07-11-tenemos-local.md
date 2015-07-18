@@ -2,7 +2,7 @@
 layout:     post
 title:      "Tenemos local"
 subtitle:   "La búsqueda termina"
-date:       2015-07-14 20:00:00
+date:       2015-07-11 20:00:00
 author:     "Can Hack"
 header-img: "img/banner-bg.jpg"
 ---
